@@ -52,10 +52,9 @@ sections:
 
       - dolor sit amet
 
-      <script
-  src="https://db.myriadgenetics-ops.com/secure/embed.js"
+      <script src="https://db.myriadgenetics-ops.com/secure/embed.js"
   data-url="/wr-724143/db/74558/webtorecord.aspx?t=724143"></script>
-  
+
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
