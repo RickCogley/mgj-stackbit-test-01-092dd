@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline 東京
+    title: This Is A Big Hero Headline 大阪
     content: >
       ミリアド ジェネティクス Azimuth is the perfect theme for developers, designers and
       entrepreneurs who need a sleek, modern SaaS site.
